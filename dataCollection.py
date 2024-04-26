@@ -6,6 +6,7 @@ import numpy as np
 import math
 import time
 
+#Imported necessary modules 
 
 
 cap = cv2.VideoCapture(0) #0 is id num for webcam
