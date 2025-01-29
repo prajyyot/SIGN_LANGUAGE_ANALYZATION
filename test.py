@@ -5,7 +5,7 @@ import numpy as np
 import math
 import time
 
-#necessary modules imported
+#necessary modules imported.
 
 cap = cv2.VideoCapture(0) #0 is id num for webcam
 detector = HandDetector(maxHands=1) #will only need 1 hand so
